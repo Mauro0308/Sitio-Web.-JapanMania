@@ -7,7 +7,7 @@ Proyecto Propio. Interfaz gráfica de una tienda de visualización de productos,
 Página principal
 
 <p align="center">
-<a href="https://ibb.co/Pt0whqc"><img src="https://i.ibb.co/LvHntVx/1.png" alt="1" border="0"></a>
+ <img src="https://github.com/Mauro0308/Sitio-Web.-JapanMania/blob/master/imagenes/screenshot.png" width="80%">
 </p>
 
 ## Formulario
